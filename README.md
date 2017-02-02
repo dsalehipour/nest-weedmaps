@@ -1,5 +1,5 @@
 ## Weedmaps Scraper Module for Nest
-Scrapes every strain on Weedmaps and helps you organize by price and location. It currently looks ounces exclusively.
+Scrapes every strain on Weedmaps and helps you organize by price and location. It currently looks for ounces exclusively.
 
 ## Requirements
 - MongoDB up and running
