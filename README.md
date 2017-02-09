@@ -15,13 +15,6 @@ Also, make sure MongoDB is up and running. See [Install MongoDB](https://docs.mo
 
 ## Usage
 1. Scrape Weedmaps by running `node index.js`
-2. Copy data from the `mongo nest` collection to the top of the file "generate-strains-json.js"
-  - Then add commas after each object by doing a find all for `/*` and then adding a comma after each object. Otherwise it will fail to run.
-3. Generate a JSON file of strains/info by running `node generate-strain-json.js`
-4. [Convert JSON](https://konklone.io/json/) of strains (weed-data.json) into a CSV
-5. Import the result CSV to Google Sheets or an editor of your choice.
-  - Freeze the first row to keep the labels from moving
-  - Sort by price
 
 ## What's happening?
 After running index.js, the workers (scraper bots) will go to the strains directory, scrape the 40 strains in the grid, store those scraped items in the database, and queue scraping jobs to those strains by their href. Then, it will paginate and scrape the next page of the strains directory.
