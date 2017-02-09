@@ -1,5 +1,5 @@
 {
-  "name": "Weedmaps Scraper",
+  "name": "weedmaps-scraper",
   "version": "1.0.0",
   "description": "Scraper module for Weedmaps",
   "main": "index.js",

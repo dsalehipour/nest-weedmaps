@@ -1,0 +1,2822 @@
+[
+  {
+    "name": "Blueberry",
+    "gram": "13",
+    "eighth": "45",
+    "quad": "90",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blueberry",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "TreeHouse SF - South San Francisco",
+    "location": "South San Francisco"
+  },
+  {
+    "name": "Blueberry Haze",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "300",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blueberry Haze",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "75",
+    "half": "120",
+    "ounce": "230",
+    "dispensary": "Green Line Delivery",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blue Cheese",
+    "gram": "12",
+    "eighth": "35",
+    "quad": "65",
+    "half": "125",
+    "ounce": "245",
+    "dispensary": "Phytologie Wellness",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blue Cheese",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "120",
+    "ounce": "205",
+    "dispensary": "Buena Leaf",
+    "location": "Daly City"
+  },
+  {
+    "name": "Blue Cheese",
+    "gram": "16",
+    "eighth": "50",
+    "quad": "90",
+    "half": "175",
+    "ounce": "320",
+    "dispensary": "Cloud Family",
+    "location": "Oakland"
+  },
+  {
+    "name": "Chocolope",
+    "gram": "20",
+    "eighth": "60",
+    "quad": "110",
+    "half": "220",
+    "ounce": "375",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Granddaddy Purple",
+    "gram": "",
+    "eighth": "40",
+    "quad": "75",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Shakes",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Granddaddy Purple",
+    "gram": "14",
+    "eighth": "49",
+    "quad": "95",
+    "half": "185",
+    "ounce": "",
+    "dispensary": "True Healing Collective - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Granddaddy Purple",
+    "gram": "",
+    "eighth": "50",
+    "quad": "90",
+    "half": "170",
+    "ounce": "320",
+    "dispensary": "Cannabicare Collective - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Hash Plant",
+    "gram": "9",
+    "eighth": "30",
+    "quad": "60",
+    "half": "120",
+    "ounce": "240",
+    "dispensary": "The Cookie Co. 415",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Purple Kush",
+    "gram": "40",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Posh Green Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Purple Kush",
+    "gram": "",
+    "eighth": "45",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Loud Guyz",
+    "location": "Oakland"
+  },
+  {
+    "name": "Purple Kush",
+    "gram": "50",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Cannabicare Collective - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Romulan",
+    "gram": "16",
+    "eighth": "49",
+    "quad": "88",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Medithrive - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Romulan",
+    "gram": "",
+    "eighth": "35",
+    "quad": "65",
+    "half": "125",
+    "ounce": "240",
+    "dispensary": "Blum Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Sensi Star",
+    "gram": "5",
+    "eighth": "15",
+    "quad": "30",
+    "half": "50",
+    "ounce": "100",
+    "dispensary": "Mission Organic",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sensi Star",
+    "gram": "10",
+    "eighth": "38",
+    "quad": "75",
+    "half": "150",
+    "ounce": "280",
+    "dispensary": "Exclusive Meds - Sunset",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "20",
+    "eighth": "50",
+    "quad": "95",
+    "half": "190",
+    "ounce": "350",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "7",
+    "eighth": "20",
+    "quad": "40",
+    "half": "70",
+    "ounce": "",
+    "dispensary": "Urban Pharm",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "13",
+    "eighth": "40",
+    "quad": "80",
+    "half": "140",
+    "ounce": "280",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "150",
+    "ounce": "",
+    "dispensary": "SmileHouse",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "",
+    "eighth": "45",
+    "quad": "80",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Budweeder",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "",
+    "eighth": "50",
+    "quad": "100",
+    "half": "180",
+    "ounce": "305",
+    "dispensary": "Buena Leaf",
+    "location": "Daly City"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "",
+    "eighth": "35",
+    "quad": "65",
+    "half": "120",
+    "ounce": "200",
+    "dispensary": "Mountain High Club",
+    "location": "Oakland"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Loud Guyz",
+    "location": "Oakland"
+  },
+  {
+    "name": "Sour Diesel",
+    "gram": "13",
+    "eighth": "40",
+    "quad": "72",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Cosmic Courier - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "White Widow",
+    "gram": "13",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Telegraph Health Center",
+    "location": "Oakland"
+  },
+  {
+    "name": "Skywalker OG",
+    "gram": "10",
+    "eighth": "25",
+    "quad": "45",
+    "half": "90",
+    "ounce": "175",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Skywalker OG",
+    "gram": "18",
+    "eighth": "50",
+    "quad": "100",
+    "half": "190",
+    "ounce": "",
+    "dispensary": "Urban Pharm",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Skywalker OG",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "88",
+    "half": "174",
+    "ounce": "",
+    "dispensary": "Harvest on Geary",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Skywalker OG",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "90",
+    "half": "180",
+    "ounce": "360",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Skywalker OG",
+    "gram": "",
+    "eighth": "45",
+    "quad": "75",
+    "half": "130",
+    "ounce": "",
+    "dispensary": "Quil Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Skywalker OG",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "135",
+    "ounce": "",
+    "dispensary": "SmileHouse",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Skywalker OG",
+    "gram": "",
+    "eighth": "45",
+    "quad": "85",
+    "half": "",
+    "ounce": "",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "Cheese",
+    "gram": "30",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "12",
+    "eighth": "40",
+    "quad": "78",
+    "half": "150",
+    "ounce": "280",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "90",
+    "half": "175",
+    "ounce": "320",
+    "dispensary": "Barbary Coast",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "",
+    "quad": "80",
+    "half": "",
+    "ounce": "",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "",
+    "quad": "80",
+    "half": "",
+    "ounce": "",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "90",
+    "half": "175",
+    "ounce": "320",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "The Cookie Co. 415",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "88",
+    "half": "170",
+    "ounce": "330",
+    "dispensary": "Blum Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "Quil Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "20",
+    "eighth": "50",
+    "quad": "100",
+    "half": "175",
+    "ounce": "300",
+    "dispensary": "Healing Light Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "50",
+    "quad": "100",
+    "half": "175",
+    "ounce": "305",
+    "dispensary": "Buena Leaf",
+    "location": "Daly City"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "130",
+    "ounce": "",
+    "dispensary": "Shakes",
+    "location": "San Francisco"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "15",
+    "eighth": "30",
+    "quad": "60",
+    "half": "110",
+    "ounce": "220",
+    "dispensary": "Green Sol",
+    "location": "Oakland"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "45",
+    "quad": "85",
+    "half": "",
+    "ounce": "",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "",
+    "eighth": "50",
+    "quad": "90",
+    "half": "170",
+    "ounce": "320",
+    "dispensary": "Cannabicare Collective - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "81",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Cosmic Courier - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "OG Kush",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "85",
+    "half": "165",
+    "ounce": "320",
+    "dispensary": "Kizzle",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "12",
+    "eighth": "35",
+    "quad": "65",
+    "half": "",
+    "ounce": "225",
+    "dispensary": "Bloom Room Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "290",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "13",
+    "eighth": "45",
+    "quad": "90",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "185",
+    "ounce": "335",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "13",
+    "eighth": "40",
+    "quad": "80",
+    "half": "140",
+    "ounce": "280",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "18",
+    "eighth": "45",
+    "quad": "80",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "",
+    "eighth": "35",
+    "quad": "65",
+    "half": "125",
+    "ounce": "250",
+    "dispensary": "Grandma's Goodies Delivery - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "",
+    "ounce": "",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Loud Guyz",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blue Dream",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "75",
+    "half": "120",
+    "ounce": "230",
+    "dispensary": "Green Line Delivery",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blue Diesel",
+    "gram": "",
+    "eighth": "35",
+    "quad": "60",
+    "half": "110",
+    "ounce": "200",
+    "dispensary": "Budweeder",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Green Crack",
+    "gram": "20",
+    "eighth": "50",
+    "quad": "95",
+    "half": "190",
+    "ounce": "350",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Green Crack",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Green Crack",
+    "gram": "10",
+    "eighth": "30",
+    "quad": "60",
+    "half": "100",
+    "ounce": "200",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Green Crack",
+    "gram": "10",
+    "eighth": "38",
+    "quad": "75",
+    "half": "150",
+    "ounce": "280",
+    "dispensary": "Exclusive Meds - Sunset",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Green Crack",
+    "gram": "",
+    "eighth": "45",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Feelgood - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Green Crack",
+    "gram": "",
+    "eighth": "50",
+    "quad": "90",
+    "half": "170",
+    "ounce": "",
+    "dispensary": "Grandma's Goodies Delivery - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Jack Herer",
+    "gram": "12",
+    "eighth": "40",
+    "quad": "70",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Medithrive - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Jack Herer",
+    "gram": "14",
+    "eighth": "40",
+    "quad": "80",
+    "half": "150",
+    "ounce": "300",
+    "dispensary": "Mission Organic",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Jack Herer",
+    "gram": "10",
+    "eighth": "35",
+    "quad": "70",
+    "half": "140",
+    "ounce": "280",
+    "dispensary": "Exclusive Meds - Sunset",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Jack Herer",
+    "gram": "15",
+    "eighth": "30",
+    "quad": "60",
+    "half": "110",
+    "ounce": "220",
+    "dispensary": "Green Sol",
+    "location": "Oakland"
+  },
+  {
+    "name": "Jack Herer",
+    "gram": "",
+    "eighth": "45",
+    "quad": "85",
+    "half": "165",
+    "ounce": "",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "Jack Herer",
+    "gram": "18",
+    "eighth": "55",
+    "quad": "99",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Cosmic Courier - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Jack Herer",
+    "gram": "",
+    "eighth": "60",
+    "quad": "110",
+    "half": "170",
+    "ounce": "330",
+    "dispensary": "Green Line Delivery",
+    "location": "Oakland"
+  },
+  {
+    "name": "Lemon Kush",
+    "gram": "",
+    "eighth": "30",
+    "quad": "50",
+    "half": "",
+    "ounce": "",
+    "dispensary": "MAD Stash - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Lemon Kush",
+    "gram": "30",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Flow Kana",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blackberry Kush",
+    "gram": "13",
+    "eighth": "47",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blackberry Kush",
+    "gram": "18",
+    "eighth": "60",
+    "quad": "110",
+    "half": "200",
+    "ounce": "350",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blackberry Kush",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "100",
+    "half": "160",
+    "ounce": "350",
+    "dispensary": "Mission Organic",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blackberry Kush",
+    "gram": "",
+    "eighth": "50",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Telegraph Health Center",
+    "location": "Oakland"
+  },
+  {
+    "name": "Blackberry Kush",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "300",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blackberry Kush",
+    "gram": "",
+    "eighth": "45",
+    "quad": "80",
+    "half": "145",
+    "ounce": "",
+    "dispensary": "Grandma's Goodies Delivery - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Sour Apple",
+    "gram": "6",
+    "eighth": "20",
+    "quad": "35",
+    "half": "70",
+    "ounce": "140",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Purple Urkle",
+    "gram": "16",
+    "eighth": "50",
+    "quad": "95",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Dutchman's Flat",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Purple Urkle",
+    "gram": "",
+    "eighth": "55",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Golden Line",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Blueberry Kush",
+    "gram": "10",
+    "eighth": "36",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Headband",
+    "gram": "30",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Headband",
+    "gram": "30",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Headband",
+    "gram": "16",
+    "eighth": "54",
+    "quad": "106",
+    "half": "210",
+    "ounce": "",
+    "dispensary": "Harvest off Mission",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Headband",
+    "gram": "16",
+    "eighth": "54",
+    "quad": "106",
+    "half": "210",
+    "ounce": "",
+    "dispensary": "Harvest on Geary",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Headband",
+    "gram": "12",
+    "eighth": "42",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "Headband",
+    "gram": "18",
+    "eighth": "55",
+    "quad": "105",
+    "half": "195",
+    "ounce": "360",
+    "dispensary": "Phytologie Wellness",
+    "location": "Oakland"
+  },
+  {
+    "name": "Headband",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "140",
+    "ounce": "",
+    "dispensary": "Golden Line",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Grape Ape",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "98",
+    "half": "190",
+    "ounce": "360",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Pineapple Express",
+    "gram": "13",
+    "eighth": "40",
+    "quad": "80",
+    "half": "140",
+    "ounce": "280",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dairy Queen",
+    "gram": "20",
+    "eighth": "55",
+    "quad": "100",
+    "half": "180",
+    "ounce": "320",
+    "dispensary": "Bay Care Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Ogre",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "90",
+    "half": "175",
+    "ounce": "320",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Gods Gift",
+    "gram": "20",
+    "eighth": "55",
+    "quad": "105",
+    "half": "200",
+    "ounce": "400",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sweet Tooth",
+    "gram": "",
+    "eighth": "44",
+    "quad": "88",
+    "half": "176",
+    "ounce": "352",
+    "dispensary": "Oakland Community Partners",
+    "location": "Oakland"
+  },
+  {
+    "name": "Sweet Tooth",
+    "gram": "",
+    "eighth": "30",
+    "quad": "60",
+    "half": "120",
+    "ounce": "240",
+    "dispensary": "NEW LIFE MEDICAL COLLECTIVE",
+    "location": "Oakland"
+  },
+  {
+    "name": "Chemdawg",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Durban Poison",
+    "gram": "18",
+    "eighth": "55",
+    "quad": "100",
+    "half": "",
+    "ounce": "365",
+    "dispensary": "Bloom Room Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Durban Poison",
+    "gram": "",
+    "eighth": "44",
+    "quad": "88",
+    "half": "176",
+    "ounce": "352",
+    "dispensary": "Oakland Community Partners",
+    "location": "Oakland"
+  },
+  {
+    "name": "Durban Poison",
+    "gram": "12",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Lifted Health and Wellness",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Durban Poison",
+    "gram": "7",
+    "eighth": "20",
+    "quad": "40",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Waterside Garden",
+    "location": "Oakland"
+  },
+  {
+    "name": "Trainwreck",
+    "gram": "16",
+    "eighth": "45",
+    "quad": "85",
+    "half": "160",
+    "ounce": "295",
+    "dispensary": "Barbary Coast",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Trainwreck",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "120",
+    "ounce": "225",
+    "dispensary": "Healing Light Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Trainwreck",
+    "gram": "",
+    "eighth": "50",
+    "quad": "90",
+    "half": "160",
+    "ounce": "300",
+    "dispensary": "JAHNETICS",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Black Domina",
+    "gram": "25",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Flow Kana",
+    "location": "Oakland"
+  },
+  {
+    "name": "Green Candy",
+    "gram": "9",
+    "eighth": "30",
+    "quad": "60",
+    "half": "120",
+    "ounce": "240",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Casey Jones",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "275",
+    "dispensary": "Lifted Health and Wellness",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Jack Frost",
+    "gram": "13",
+    "eighth": "45",
+    "quad": "90",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Jack Frost",
+    "gram": "12",
+    "eighth": "40",
+    "quad": "80",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "The Cookie Co. 415",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Jack Frost",
+    "gram": "10",
+    "eighth": "35",
+    "quad": "70",
+    "half": "125",
+    "ounce": "245",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Jack Frost",
+    "gram": "",
+    "eighth": "45",
+    "quad": "80",
+    "half": "145",
+    "ounce": "",
+    "dispensary": "Grandma's Goodies Delivery - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Querkle",
+    "gram": "10",
+    "eighth": "30",
+    "quad": "55",
+    "half": "110",
+    "ounce": "215",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "MK Ultra",
+    "gram": "5",
+    "eighth": "15",
+    "quad": "30",
+    "half": "60",
+    "ounce": "120",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "MK Ultra",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "160",
+    "ounce": "240",
+    "dispensary": "Indigo - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Super Sour Diesel",
+    "gram": "8",
+    "eighth": "30",
+    "quad": "60",
+    "half": "120",
+    "ounce": "200",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Super Sour Diesel",
+    "gram": "8",
+    "eighth": "30",
+    "quad": "60",
+    "half": "120",
+    "ounce": "200",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Holy Grail",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "98",
+    "half": "190",
+    "ounce": "360",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour OG",
+    "gram": "15",
+    "eighth": "54",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour OG",
+    "gram": "15",
+    "eighth": "43",
+    "quad": "82",
+    "half": "160",
+    "ounce": "300",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Pineapple Kush",
+    "gram": "12",
+    "eighth": "40",
+    "quad": "75",
+    "half": "140",
+    "ounce": "",
+    "dispensary": "Harvest off Mission",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Purple Trainwreck",
+    "gram": "",
+    "eighth": "45",
+    "quad": "80",
+    "half": "",
+    "ounce": "",
+    "dispensary": "All Natural Delivers",
+    "location": "San Francisco"
+  },
+  {
+    "name": "SFV OG Kush",
+    "gram": "11",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "SFV OG Kush",
+    "gram": "14",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "250",
+    "dispensary": "Cloud Family",
+    "location": "Oakland"
+  },
+  {
+    "name": "Chiesel",
+    "gram": "16",
+    "eighth": "58",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Champagne",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Champagne",
+    "gram": "18",
+    "eighth": "50",
+    "quad": "100",
+    "half": "175",
+    "ounce": "350",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "True OG",
+    "gram": "16",
+    "eighth": "55",
+    "quad": "105",
+    "half": "205",
+    "ounce": "375",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "True OG",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "100",
+    "half": "180",
+    "ounce": "350",
+    "dispensary": "Mission Organic",
+    "location": "San Francisco"
+  },
+  {
+    "name": "True OG",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Budweeder",
+    "location": "San Francisco"
+  },
+  {
+    "name": "True OG",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "140",
+    "ounce": "240",
+    "dispensary": "NEW LIFE MEDICAL COLLECTIVE",
+    "location": "Oakland"
+  },
+  {
+    "name": "Berry White",
+    "gram": "15",
+    "eighth": "47",
+    "quad": "88",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Dutchman's Flat",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Berry White",
+    "gram": "20",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Berry White",
+    "gram": "20",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Berry White",
+    "gram": "",
+    "eighth": "45",
+    "quad": "80",
+    "half": "155",
+    "ounce": "300",
+    "dispensary": "Grasshopper SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Berry White",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "80",
+    "half": "",
+    "ounce": "",
+    "dispensary": "All Natural Delivers",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Purple Bubba",
+    "gram": "14",
+    "eighth": "35",
+    "quad": "68",
+    "half": "130",
+    "ounce": "249",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Skywalker",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "90",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Cosmic Courier - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Green Goblin",
+    "gram": "",
+    "eighth": "25",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Grasshopper SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Strawberry Diesel",
+    "gram": "20",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Kush",
+    "gram": "15",
+    "eighth": "30",
+    "quad": "60",
+    "half": "110",
+    "ounce": "220",
+    "dispensary": "Green Sol",
+    "location": "Oakland"
+  },
+  {
+    "name": "Candy Kush",
+    "gram": "",
+    "eighth": "40",
+    "quad": "75",
+    "half": "145",
+    "ounce": "285",
+    "dispensary": "Flow Kana",
+    "location": "Oakland"
+  },
+  {
+    "name": "gdp",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Telegraph Health Center",
+    "location": "Oakland"
+  },
+  {
+    "name": "Dream Queen",
+    "gram": "14",
+    "eighth": "51",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dream Queen",
+    "gram": "",
+    "eighth": "45",
+    "quad": "85",
+    "half": "160",
+    "ounce": "",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "BLUE CRACK",
+    "gram": "16",
+    "eighth": "45",
+    "quad": "85",
+    "half": "165",
+    "ounce": "320",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Grapefruit Kush",
+    "gram": "14",
+    "eighth": "51",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "UK Cheese",
+    "gram": "",
+    "eighth": "45",
+    "quad": "75",
+    "half": "140",
+    "ounce": "",
+    "dispensary": "Quil Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "J1",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "90",
+    "half": "175",
+    "ounce": "320",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cherry Pie",
+    "gram": "",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Flower Power Dispensary",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cherry Pie",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "90",
+    "half": "180",
+    "ounce": "360",
+    "dispensary": "The Cookie Co. 415",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cherry Pie",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "90",
+    "half": "170",
+    "ounce": "330",
+    "dispensary": "Mission Organic",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cherry Pie",
+    "gram": "10",
+    "eighth": "35",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "Cherry Pie",
+    "gram": "15",
+    "eighth": "30",
+    "quad": "60",
+    "half": "110",
+    "ounce": "220",
+    "dispensary": "Green Sol",
+    "location": "Oakland"
+  },
+  {
+    "name": "Cherry Pie",
+    "gram": "60",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "TreeHouse SF - South San Francisco",
+    "location": "South San Francisco"
+  },
+  {
+    "name": "Cherry Pie",
+    "gram": "20",
+    "eighth": "55",
+    "quad": "100",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "Green Line Delivery",
+    "location": "Oakland"
+  },
+  {
+    "name": "Cherry Kush",
+    "gram": "10",
+    "eighth": "35",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "Cherry Kush",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "300",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dutch Treat",
+    "gram": "20",
+    "eighth": "50",
+    "quad": "95",
+    "half": "190",
+    "ounce": "350",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dutch Treat",
+    "gram": "16",
+    "eighth": "58",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dutch Treat",
+    "gram": "18",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Medithrive - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dutch Treat",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "140",
+    "ounce": "260",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dutch Treat",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "90",
+    "half": "180",
+    "ounce": "360",
+    "dispensary": "The Cookie Co. 415",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dutch Treat",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "88",
+    "half": "174",
+    "ounce": "",
+    "dispensary": "Harvest off Mission",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Dutch Treat",
+    "gram": "18",
+    "eighth": "55",
+    "quad": "100",
+    "half": "190",
+    "ounce": "360",
+    "dispensary": "Mission Organic",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Strawberry Kush",
+    "gram": "16",
+    "eighth": "49",
+    "quad": "88",
+    "half": "",
+    "ounce": "328",
+    "dispensary": "Medithrive - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Super Jack",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "88",
+    "half": "174",
+    "ounce": "",
+    "dispensary": "Harvest off Mission",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Super Jack",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "Super Jack",
+    "gram": "",
+    "eighth": "50",
+    "quad": "100",
+    "half": "190",
+    "ounce": "",
+    "dispensary": "Golden Line",
+    "location": "San Francisco"
+  },
+  {
+    "name": "J-1",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Telegraph Health Center",
+    "location": "Oakland"
+  },
+  {
+    "name": "XJ-13",
+    "gram": "10",
+    "eighth": "35",
+    "quad": "70",
+    "half": "140",
+    "ounce": "280",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "XJ-13",
+    "gram": "",
+    "eighth": "50",
+    "quad": "90",
+    "half": "170",
+    "ounce": "300",
+    "dispensary": "Foggy Daze Organic Delivery Service",
+    "location": "San Francisco"
+  },
+  {
+    "name": "XJ-13",
+    "gram": "15",
+    "eighth": "30",
+    "quad": "60",
+    "half": "110",
+    "ounce": "220",
+    "dispensary": "Green Sol",
+    "location": "Oakland"
+  },
+  {
+    "name": "XJ-13",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "160",
+    "ounce": "240",
+    "dispensary": "Indigo - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Sour Jack",
+    "gram": "12",
+    "eighth": "40",
+    "quad": "75",
+    "half": "140",
+    "ounce": "",
+    "dispensary": "Harvest off Mission",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Sour Jack",
+    "gram": "8",
+    "eighth": "20",
+    "quad": "40",
+    "half": "80",
+    "ounce": "150",
+    "dispensary": "Mission Organic",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Pre 98 Bubba Kush",
+    "gram": "",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Flower Power Dispensary",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Pre 98 Bubba Kush",
+    "gram": "",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "MAD Stash - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Platinum Blue Dream",
+    "gram": "11",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cherry Bomb",
+    "gram": "10",
+    "eighth": "35",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "Lemon Diesel",
+    "gram": "",
+    "eighth": "40",
+    "quad": "72",
+    "half": "136",
+    "ounce": "24",
+    "dispensary": "Shareones",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Green Ribbon",
+    "gram": "12",
+    "eighth": "35",
+    "quad": "65",
+    "half": "125",
+    "ounce": "245",
+    "dispensary": "Phytologie Wellness",
+    "location": "Oakland"
+  },
+  {
+    "name": "chocolate thai",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "90",
+    "half": "160",
+    "ounce": "300",
+    "dispensary": "JAHNETICS",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Shake",
+    "gram": "",
+    "eighth": "20",
+    "quad": "40",
+    "half": "75",
+    "ounce": "150",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Shake",
+    "gram": "",
+    "eighth": "30",
+    "quad": "50",
+    "half": "95",
+    "ounce": "165",
+    "dispensary": "Bay Care Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cali Mist",
+    "gram": "5",
+    "eighth": "15",
+    "quad": "30",
+    "half": "60",
+    "ounce": "120",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Star Dawg",
+    "gram": "",
+    "eighth": "50",
+    "quad": "100",
+    "half": "",
+    "ounce": "320",
+    "dispensary": "Shambhala MCC",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Star Dawg",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "140",
+    "ounce": "260",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Star Dawg",
+    "gram": "20",
+    "eighth": "60",
+    "quad": "110",
+    "half": "220",
+    "ounce": "375",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "16",
+    "eighth": "47",
+    "quad": "92",
+    "half": "180",
+    "ounce": "330",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "16",
+    "eighth": "55",
+    "quad": "105",
+    "half": "205",
+    "ounce": "375",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "18",
+    "eighth": "50",
+    "quad": "100",
+    "half": "175",
+    "ounce": "350",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "88",
+    "half": "170",
+    "ounce": "330",
+    "dispensary": "Blum Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "17",
+    "eighth": "55",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Telegraph Health Center",
+    "location": "Oakland"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "18",
+    "eighth": "55",
+    "quad": "105",
+    "half": "195",
+    "ounce": "360",
+    "dispensary": "Phytologie Wellness",
+    "location": "Oakland"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "18",
+    "eighth": "50",
+    "quad": "95",
+    "half": "190",
+    "ounce": "350",
+    "dispensary": "Lifted Health and Wellness",
+    "location": "San Francisco"
+  },
+  {
+    "name": "THC Bomb",
+    "gram": "",
+    "eighth": "55",
+    "quad": "95",
+    "half": "180",
+    "ounce": "300",
+    "dispensary": "Foggy Daze Organic Delivery Service",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Chernobyl",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Chernobyl",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "185",
+    "ounce": "335",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Chernobyl",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "185",
+    "ounce": "335",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "The White",
+    "gram": "16",
+    "eighth": "50",
+    "quad": "95",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Dutchman's Flat",
+    "location": "San Francisco"
+  },
+  {
+    "name": "The White",
+    "gram": "17",
+    "eighth": "50",
+    "quad": "90",
+    "half": "175",
+    "ounce": "320",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "The White",
+    "gram": "12",
+    "eighth": "40",
+    "quad": "80",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "The Cookie Co. 415",
+    "location": "San Francisco"
+  },
+  {
+    "name": "The White",
+    "gram": "",
+    "eighth": "45",
+    "quad": "85",
+    "half": "165",
+    "ounce": "320",
+    "dispensary": "Grasshopper SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "16",
+    "eighth": "47",
+    "quad": "92",
+    "half": "180",
+    "ounce": "330",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "20",
+    "eighth": "50",
+    "quad": "95",
+    "half": "190",
+    "ounce": "350",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "90",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "14",
+    "eighth": "45",
+    "quad": "88",
+    "half": "170",
+    "ounce": "330",
+    "dispensary": "Blum Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "12",
+    "eighth": "42",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "Candy Jack",
+    "gram": "15",
+    "eighth": "45",
+    "quad": "80",
+    "half": "",
+    "ounce": "",
+    "dispensary": "All Natural Delivers",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "16",
+    "eighth": "47",
+    "quad": "92",
+    "half": "180",
+    "ounce": "330",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "12",
+    "eighth": "44",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "170",
+    "ounce": "340",
+    "dispensary": "Ketama",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "10",
+    "eighth": "35",
+    "quad": "70",
+    "half": "135",
+    "ounce": "265",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "12",
+    "eighth": "42",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "candyland",
+    "gram": "",
+    "eighth": "45",
+    "quad": "90",
+    "half": "180",
+    "ounce": "360",
+    "dispensary": "Quil Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "16",
+    "eighth": "49",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Posh Green Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "",
+    "eighth": "40",
+    "quad": "",
+    "half": "",
+    "ounce": "250",
+    "dispensary": "Potshots Delivery Service Inc",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "",
+    "eighth": "55",
+    "quad": "100",
+    "half": "180",
+    "ounce": "320",
+    "dispensary": "Foggy Daze Organic Delivery Service",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "",
+    "eighth": "45",
+    "quad": "81",
+    "half": "153",
+    "ounce": "270",
+    "dispensary": "Shareones",
+    "location": "San Francisco"
+  },
+  {
+    "name": "candyland",
+    "gram": "35",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Kayafornia Delivery",
+    "location": "Oakland"
+  },
+  {
+    "name": "candyland",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "140",
+    "ounce": "240",
+    "dispensary": "Indigo - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Raspberry Cough",
+    "gram": "12",
+    "eighth": "35",
+    "quad": "63",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Cosmic Courier - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "Kosher Kush",
+    "gram": "",
+    "eighth": "45",
+    "quad": "81",
+    "half": "153",
+    "ounce": "270",
+    "dispensary": "Shareones",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cannatonic",
+    "gram": "",
+    "eighth": "40",
+    "quad": "80",
+    "half": "130",
+    "ounce": "220",
+    "dispensary": "Buena Leaf",
+    "location": "Daly City"
+  },
+  {
+    "name": "Black Cherry Soda",
+    "gram": "30",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Flow Kana",
+    "location": "Oakland"
+  },
+  {
+    "name": "Double Dream",
+    "gram": "15",
+    "eighth": "43",
+    "quad": "82",
+    "half": "160",
+    "ounce": "300",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Platinum Girl Scout Cookies",
+    "gram": "15",
+    "eighth": "43",
+    "quad": "82",
+    "half": "160",
+    "ounce": "300",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Platinum Girl Scout Cookies",
+    "gram": "18",
+    "eighth": "50",
+    "quad": "95",
+    "half": "190",
+    "ounce": "350",
+    "dispensary": "Lifted Health and Wellness",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Platinum Girl Scout Cookies",
+    "gram": "",
+    "eighth": "49",
+    "quad": "95",
+    "half": "180",
+    "ounce": "330",
+    "dispensary": "Posh Green Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Platinum Girl Scout Cookies",
+    "gram": "",
+    "eighth": "50",
+    "quad": "95",
+    "half": "",
+    "ounce": "",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "Platinum Girl Scout Cookies",
+    "gram": "14",
+    "eighth": "49",
+    "quad": "95",
+    "half": "185",
+    "ounce": "",
+    "dispensary": "True Healing Collective - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "afghan kush",
+    "gram": "13",
+    "eighth": "40",
+    "quad": "80",
+    "half": "140",
+    "ounce": "280",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "afghan kush",
+    "gram": "",
+    "eighth": "25",
+    "quad": "50",
+    "half": "95",
+    "ounce": "180",
+    "dispensary": "Healing Light Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "afghan kush",
+    "gram": "18",
+    "eighth": "55",
+    "quad": "99",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Cosmic Courier - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "afghani",
+    "gram": "",
+    "eighth": "30",
+    "quad": "45",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Budweeder",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Animal Cookies",
+    "gram": "16",
+    "eighth": "47",
+    "quad": "92",
+    "half": "180",
+    "ounce": "330",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Animal Cookies",
+    "gram": "20",
+    "eighth": "60",
+    "quad": "110",
+    "half": "",
+    "ounce": "375",
+    "dispensary": "Bloom Room Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Animal Cookies",
+    "gram": "",
+    "eighth": "45",
+    "quad": "85",
+    "half": "165",
+    "ounce": "",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "Animal Cookies",
+    "gram": "",
+    "eighth": "50",
+    "quad": "90",
+    "half": "170",
+    "ounce": "320",
+    "dispensary": "Cannabicare Collective - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "bay 11",
+    "gram": "",
+    "eighth": "20",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "black jack",
+    "gram": "",
+    "eighth": "35",
+    "quad": "65",
+    "half": "120",
+    "ounce": "225",
+    "dispensary": "Green Door San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Black mamba",
+    "gram": "16",
+    "eighth": "58",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Cherry Ak-47",
+    "gram": "",
+    "eighth": "40",
+    "quad": "70",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Quil Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "deadhead og",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "300",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "DJ Short Blueberry",
+    "gram": "15",
+    "eighth": "54",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "hawaiian snow",
+    "gram": "15",
+    "eighth": "30",
+    "quad": "60",
+    "half": "110",
+    "ounce": "220",
+    "dispensary": "Green Sol",
+    "location": "Oakland"
+  },
+  {
+    "name": "holy grail kush",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "185",
+    "ounce": "335",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "holy grail kush",
+    "gram": "15",
+    "eighth": "50",
+    "quad": "95",
+    "half": "185",
+    "ounce": "335",
+    "dispensary": "LoveShack",
+    "location": "San Francisco"
+  },
+  {
+    "name": "jedi kush",
+    "gram": "13",
+    "eighth": "40",
+    "quad": "80",
+    "half": "140",
+    "ounce": "280",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "kosher tangie",
+    "gram": "14",
+    "eighth": "40",
+    "quad": "75",
+    "half": "140",
+    "ounce": "275",
+    "dispensary": "Phytologie Wellness",
+    "location": "Oakland"
+  },
+  {
+    "name": "kings kush",
+    "gram": "30",
+    "eighth": "",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Phytologie Wellness",
+    "location": "Oakland"
+  },
+  {
+    "name": "lemon G",
+    "gram": "10",
+    "eighth": "30",
+    "quad": "60",
+    "half": "100",
+    "ounce": "200",
+    "dispensary": "1944 Ocean Cooperative - San Francisco",
+    "location": "San Francisco"
+  },
+  {
+    "name": "lemon jack",
+    "gram": "20",
+    "eighth": "50",
+    "quad": "95",
+    "half": "190",
+    "ounce": "350",
+    "dispensary": "SFFOGG",
+    "location": "San Francisco"
+  },
+  {
+    "name": "lemon jack",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "80",
+    "half": "160",
+    "ounce": "",
+    "dispensary": "Urban Pharm",
+    "location": "San Francisco"
+  },
+  {
+    "name": "lemon stomper",
+    "gram": "12",
+    "eighth": "42",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "mango",
+    "gram": "14",
+    "eighth": "35",
+    "quad": "68",
+    "half": "130",
+    "ounce": "249",
+    "dispensary": "Purple Star MD",
+    "location": "San Francisco"
+  },
+  {
+    "name": "papaya",
+    "gram": "18",
+    "eighth": "45",
+    "quad": "80",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "platinum jack",
+    "gram": "20",
+    "eighth": "55",
+    "quad": "100",
+    "half": "180",
+    "ounce": "300",
+    "dispensary": "Bay Care Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "purple cadillac",
+    "gram": "",
+    "eighth": "55",
+    "quad": "100",
+    "half": "180",
+    "ounce": "290",
+    "dispensary": "Foggy Daze Organic Delivery Service",
+    "location": "San Francisco"
+  },
+  {
+    "name": "purple cadillac",
+    "gram": "",
+    "eighth": "49",
+    "quad": "95",
+    "half": "",
+    "ounce": "",
+    "dispensary": "True Healing Collective - Oakland",
+    "location": "Oakland"
+  },
+  {
+    "name": "purple mr nice",
+    "gram": "15",
+    "eighth": "40",
+    "quad": "75",
+    "half": "150",
+    "ounce": "300",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "sour alien",
+    "gram": "12",
+    "eighth": "44",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Igzactly 420",
+    "location": "San Francisco"
+  },
+  {
+    "name": "sour tangie",
+    "gram": "",
+    "eighth": "45",
+    "quad": "80",
+    "half": "135",
+    "ounce": "",
+    "dispensary": "Quil Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "sour tangie",
+    "gram": "",
+    "eighth": "50",
+    "quad": "90",
+    "half": "160",
+    "ounce": "280",
+    "dispensary": "Foggy Daze Organic Delivery Service",
+    "location": "San Francisco"
+  },
+  {
+    "name": "space bomb",
+    "gram": "20",
+    "eighth": "60",
+    "quad": "110",
+    "half": "220",
+    "ounce": "375",
+    "dispensary": "Green Cure Delivery",
+    "location": "San Francisco"
+  },
+  {
+    "name": "sugar cookies",
+    "gram": "9",
+    "eighth": "30",
+    "quad": "60",
+    "half": "120",
+    "ounce": "240",
+    "dispensary": "Cookies SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "sugar cookies",
+    "gram": "12",
+    "eighth": "42",
+    "quad": "",
+    "half": "",
+    "ounce": "",
+    "dispensary": "First Hemp Bank",
+    "location": "Oakland"
+  },
+  {
+    "name": "sugar cookies",
+    "gram": "",
+    "eighth": "45",
+    "quad": "75",
+    "half": "",
+    "ounce": "",
+    "dispensary": "Grasshopper SF",
+    "location": "San Francisco"
+  },
+  {
+    "name": "super silver haze",
+    "gram": "18",
+    "eighth": "60",
+    "quad": "110",
+    "half": "200",
+    "ounce": "350",
+    "dispensary": "Grass Roots Collective",
+    "location": "San Francisco"
+  },
+  {
+    "name": "super silver haze",
+    "gram": "",
+    "eighth": "45",
+    "quad": "90",
+    "half": "175",
+    "ounce": "",
+    "dispensary": "Golden Line",
+    "location": "San Francisco"
+  },
+  {
+    "name": "super silver haze",
+    "gram": "",
+    "eighth": "45",
+    "quad": "85",
+    "half": "160",
+    "ounce": "320",
+    "dispensary": "INDIKA MCC",
+    "location": "Daly City"
+  },
+  {
+    "name": "white widow",
+    "gram": "",
+    "eighth": "35",
+    "quad": "70",
+    "half": "120",
+    "ounce": "205",
+    "dispensary": "Buena Leaf",
+    "location": "Daly City"
+  }
+]

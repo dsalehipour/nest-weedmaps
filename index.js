@@ -1,5 +1,7 @@
 var Nest = require('node-nest');
-
+var Job = require('node-nest/lib/db/queue').default;
+var Item = require('node-nest/lib/db/item').default;
+var runAfterScraping = require('./runAfterScraping');
 
 var nest = new Nest();
 nest.addRoute({
@@ -17,7 +19,7 @@ nest.addRoute({
   // we can use the "state.currentPage" property to enable pagination
   url: 'https://weedmaps.com/strains?page=<%= state.currentPage %>',
 
-  scraper: function($) {
+  scraper: function($, ctx) {
 	var currentPage = $('.rank').last().text() / 30;
 
 	// You should return an object with the following properties:
@@ -26,8 +28,7 @@ nest.addRoute({
 	// - hasNextPage: `Boolean` If true, Nest will scrape the "next page"
 	var data = {
 	  items: [],
-	  jobs: [],
-	  hasNextPage: currentPage < 5
+	  jobs: []
 	};
 
 	// The HTML is already loaded and wrapped with Cheerio in '$',
@@ -36,20 +37,22 @@ nest.addRoute({
 	// for each article
 	$('a.strain-card').each((i, row) => {
 
-	  // create superficial hackernews article items in the database
-	  data.items.push({
-		key: $(row).attr('href'), // this is the only required property
-		name: $(row).find('.strain-name').text(),
-		href: $(row).attr('href')
-	  });
+		// create superficial hackernews article items in the database
+		data.items.push({
+			key: $(row).attr('href'), // this is the only required property
+			name: $(row).find('.strain-name').text(),
+			href: $(row).attr('href')
+		});
 
 		data.jobs.push({
 			routeId: 'weedmaps-strain-page', // this is the only required property
 			query: {
 				href: $(row).attr('href')
 			}
-			});
 		});
+	});
+
+	data.hasNextPage = !!data.items.length;
 
 	// Nest will save the objects in 'data.items' and queue jobs in 'data.jobs'
 	// Nest won't repeat URLs that have already been scraped
@@ -126,6 +129,29 @@ nest.addRoute({
   }
 });
 
-nest.queue('weedmaps-strains');
+// Remove data from Mongo and start Nest
+Item.remove({}, () => {
+	Job.remove({}, () => {
+		nest.queue('weedmaps-strains');
+		nest.start().catch((err) => console.error(err));
+	});
+});
 
-nest.start().catch((err) => console.error(err));
+var done = false;
+setInterval(function() {
+	Job.find({ 'state.finished': false }, function(err, unfinishedJobsCount) {
+		if (done) { return; }	
+		if (err) { console.log(err); return; }
+		if (unfinishedJobsCount.length === 0) {
+			done = true;
+			nest.stop();
+			setTimeout(function() {
+				runAfterScraping(function(){
+					console.log("DONE");
+					require('child_process').exec("/Applications//Numbers.app/Contents/MacOS/Numbers /Users/darius/nest-weedmaps/weed-data.csv");
+					//process.exit(0);
+				});
+			}, 1000);
+		}
+	})
+}, 1000);

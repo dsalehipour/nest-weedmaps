@@ -1,5 +1,5 @@
 ## Weedmaps Scraper Module for Nest
-Scrapes every strain on Weedmaps and helps you organize by price and location. It currently looks for ounces exclusively.
+Scrapes every strain on Weedmaps and helps you organize by price and location.
 
 ## Requirements
 - MongoDB up and running
@@ -8,18 +8,19 @@ Scrapes every strain on Weedmaps and helps you organize by price and location. I
 ## Installation
 ```
 git clone https://github.com/dsalehipour/nest-weedmaps.git
-cd nest-hackernews
+cd nest-weedmaps
 npm install
 ```
 Also, make sure MongoDB is up and running. See [Install MongoDB](https://docs.mongodb.com/manual/installation/#mongodb-community-edition).
 
 ## Usage
 1. Scrape Weedmaps by running `node index.js`
-2. Copy data from the `mongo nest` collection to the top of the file "generate-strain-json.js"
+2. Copy data from the `mongo nest` collection to the top of the file "generate-strains-json.js"
   - Then add commas after each object by doing a find all for `/*` and then adding a comma after each object. Otherwise it will fail to run.
 3. Generate a JSON file of strains/info by running `node generate-strain-json.js`
-4. Import JSON of strains (weed-data.json) to Google Sheets or an editor of your choice.
-  - Freeze the first row headers
+4. [Convert JSON](https://konklone.io/json/) of strains (weed-data.json) into a CSV
+5. Import the result CSV to Google Sheets or an editor of your choice.
+  - Freeze the first row to keep the labels from moving
   - Sort by price
 
 ## What's happening?
