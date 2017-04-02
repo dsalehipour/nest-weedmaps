@@ -1,0 +1,17 @@
+# IDE and OS-specific files.
+.idea/
+.sftp-config.json
+*.iml
+.DS_Store
+*~
+sftp-config.json
+./sftp-config.json
+
+# Log files.
+npm-debug.log
+*.log
+
+# Dependencies.
+/node_modules/
+
+weed-data*
