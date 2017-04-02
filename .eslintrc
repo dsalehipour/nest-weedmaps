@@ -1,0 +1,13 @@
+{
+  "extends": "eslint-config-airbnb-base",
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "newline-per-chained-call": "off",
+    "arrow-parens": "off",
+    "no-console": "off",
+    "no-shadow": "off",
+    "no-var": "off"
+  }
+}

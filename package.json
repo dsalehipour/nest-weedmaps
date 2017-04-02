@@ -4,11 +4,21 @@
   "description": "Scraper module for Weedmaps",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Darius",
-  "license": "ISC",
+  "author": "Darius Salehipour <dsalehipour>",
+  "license": "MIT",
+  "engines" : {
+    "node" : ">=7.3.0"
+  },
   "dependencies": {
     "node-nest": "^0.7.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.1.2",
+    "eslint-plugin-import": "^2.2.0"
   }
 }
