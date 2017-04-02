@@ -7,7 +7,7 @@ module.exports = function runAfterScraping(callback){
         // Final object we return at the end.
         // Array of strains and the price for all available quantities at a specific dispensary.
         var strainPrices = [];
-        var csvFormat = 'Strain Name, Gram, Eighth, Quad, Half, Ounce, Dispensary, Location,' + '\n';
+        var csvFormat = 'Strain Name, Gram, Eighth, Quad, Half, Ounce, Dispensary, Location' + '\n';
 
         // For each strain in San Francisco, find the price for each quantity, and place it inside an array.
         //{
