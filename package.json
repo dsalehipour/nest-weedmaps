@@ -10,8 +10,8 @@
   },
   "author": "Darius Salehipour <dsalehipour>",
   "license": "MIT",
-  "engines" : {
-    "node" : ">=7.3.0"
+  "engines": {
+    "node": ">=7.3.0"
   },
   "dependencies": {
     "node-nest": "^0.7.3"
@@ -22,3 +22,4 @@
     "eslint-plugin-import": "^2.2.0"
   }
 }
+const Database = require("@replit/database")
