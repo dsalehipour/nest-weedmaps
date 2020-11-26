@@ -1,0 +1,4 @@
+db.get("key").then(value => {});
+db.set("key", "value").then(() => {});
+const Database = require("@replit/database")
+const db = new Database()

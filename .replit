@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "npm start"
+run = "npm start"const Database = require("@replit/database")
